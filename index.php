@@ -1,6 +1,6 @@
 <?php include 'includes/settings.php'; ?>
 <?php include 'includes/header.php'; ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
   <head>
     <meta charset="utf-8">
